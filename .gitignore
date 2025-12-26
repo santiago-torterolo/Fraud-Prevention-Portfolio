@@ -1,5 +1,9 @@
-data/*.db
+*.csv
+*.db
+*.xlsx
 
 __pycache__/
 *.pyc
+.ipynb_checkpoints/
 .DS_Store
+.env
